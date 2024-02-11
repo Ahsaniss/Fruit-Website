@@ -1,0 +1,246 @@
+* {
+	text-decoration: none;
+
+}
+.above{
+	background-color: rgb(237, 233, 233) ;
+}
+
+.navbar {
+
+	font-family: calibri;
+	padding-right: 1px;
+	padding-left: 1px;
+}
+
+.navdiv {
+	display: flex;
+	align-items: left;
+	justify-content: space-between;
+}
+
+.logo a {
+	font-size: 35px;
+	font-weight: 600;
+	color: rgb(0, 0, 0);
+	text-align: left;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+li a {
+	color: rgb(0, 0, 0);
+	font-size: 18px;
+	font-weight: bold;
+	margin-right: 45px;
+}
+
+button {
+	background-color: rgb(253, 88, 29);
+	margin-left: 15px;
+	border-radius: 0%;
+	padding: 10px;
+	width: 120px;
+	margin-right: 20px;
+	height: 35px;
+	border-color: transparent;
+}
+
+button a {
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+image {
+	margin-top: 10px;
+	left: 4px;
+	margin-right: 30px;
+
+}
+
+.pos-cent {
+	position: absolute;
+	/*width: 70%;
+		left: 15%;
+		top: 20%;*/
+
+	margin-top: 60px;
+
+
+}
+
+.st {
+	float: right;
+	width: 30%;
+	margin-top: 40px;
+	margin-right: 50px;
+
+
+}
+
+.text {
+	font-size: 50px;
+	margin-left: 100px;
+	margin-top: 60px;
+}
+
+.para {
+	margin-left: 100px;
+}
+
+.but1 {
+	width: 95px;
+	height: 35px;
+	margin-left: 110px;
+	background-color: rgb(253, 88, 29);
+	color: white;
+	border-color: transparent;
+}
+
+.but2 {
+	width: 95px;
+	height: 35px;
+	margin-left: 10px;
+	background-color: rgb(0, 0, 0);
+	color: white;
+	border-color: transparent;
+}
+
+.center {
+	text-align: center;
+	color: black;
+	margin-top: 400px;
+}
+
+.center3 {
+	text-align: center;
+	color: black;
+}
+
+.bt3 {
+	width: 95px;
+	height: 35px;
+	margin-left: 45%;
+	background-color: rgb(0, 0, 0);
+	color: white;
+	border-color: transparent;
+
+}
+
+.center1 {
+	text-align: center;
+	color: black;
+
+
+}
+
+.pos-cent {
+	position: absolute;
+	/*width: 70%;
+		left: 15%;
+		top: 20%;*/
+	background-color: transparent;
+
+
+}
+
+.st1 {
+	float: right;
+	width: 17%;
+	margin-top: 27px;
+	margin-right: 50px;
+
+
+}
+
+.st2 {
+	float: right;
+	width: 7%;
+	margin-top: 0px;
+	margin-right: 120px;
+
+
+}
+
+.st3 {
+	float: right;
+	width: 15%;
+	margin-top: 10px;
+	margin-right: 80px;
+
+
+}
+
+.text1 {
+	font-size: 30px;
+	margin-left: 100px;
+	margin-top: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.para1 {
+	margin-left: 100px;
+	line-break: loose;
+}
+
+.but11 {
+	width: 95px;
+	height: 35px;
+	margin-left: 110px;
+	background-color: rgb(0, 0, 0);
+	color: white;
+	border-color: transparent;
+}
+
+.client-container {
+	text-align: center;
+}
+
+.client {
+	display: inline-block;
+	/* Ensures the image behaves like an inline element */
+	vertical-align: middle;
+	/* Aligns the image vertically in the middle */
+}
+
+.labels-container label {
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.inputs-container input[type=text] {
+	width: 60%;
+	padding: 12px;
+	margin-top: 13px;
+	margin-bottom: 7px;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+.Dish {
+	width: 200px;
+	float: right;
+	/* Adjust the width according to your image */
+}
+
+.but111 {
+	width: 95px;
+	height: 35px;
+	margin-left: 10px;
+	background-color: rgb(253, 88, 29);
+	color: white;
+	border-color: transparent;
+	margin-top: 23px;
+}
+.last{
+	text-align: center;
+	background-color:rgb(237, 233, 233) ;
+	text-decoration: none;
+	padding-top: 1px ;
+	padding-bottom: 1px ;
+}
